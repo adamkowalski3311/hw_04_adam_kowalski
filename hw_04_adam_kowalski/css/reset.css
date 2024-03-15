@@ -1,0 +1,35 @@
+html {
+    font-size: 16px;
+}
+body {
+    font-size: 1 rem;
+    line-height: 1;
+}
+* {
+    box-sizing: border-box;
+}
+.wrapper {
+    width: 89%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 0 3%;
+}
+.header__heading {
+	padding-top: 96px;
+	margin-bottom: 46px;
+	font-size: 2rem;
+	color: #a11414;
+}
+.header__heading--spec {
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.header__img-wrap {
+	padding: 14px 13px;
+	border: 1px solid #000;
+	border-radius: 2px;
+	margin-bottom: 57px;
+}
+.header__img-wrap img {
+	width: 100%;
+}
